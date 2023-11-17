@@ -1,0 +1,59 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+
+    background-color: #8686C0;
+
+    #expre {
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+    }
+
+    #fondo {
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+    }
+
+    #guante {
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+    }
+
+    .dropdown {
+        background-color: black;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        
+        p {
+            color: white;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+    }
+
+    .logo {
+        width: 5rem;
+        max-width: 5rem;
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+    }
+
+    .boton {
+        position: absolute;
+        top: 0;
+        left: 0;
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+
+    }
+    
+    .hero {
+        margin-top: 10rem;
+    }
+}
